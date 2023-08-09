@@ -44,7 +44,6 @@ class MainMenuState extends MusicBeatState
 	var typin:String = ''; // for the code
 
 	var optionShit:Array<String> = [
-		'story_mode',
 		'freeplay',
 		'options',
 		'credits'
